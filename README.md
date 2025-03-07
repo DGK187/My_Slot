@@ -1,9 +1,9 @@
-# 🎰 Jackpot Shapes
+# 🎰 Jackpot BAGaMONEY
 
-A thrilling slot machine game inspired by geometric patterns and casino-style slots. Features autoplay, leaderboards, sound effects, and animations.
+A thrilling slot machine game inspired by **wealth and treasure-themed symbols**. Features autoplay, leaderboards, sound effects, and animations.
 
 ## 🚀 Features
-- 🔺 **Spinning reels with shape-based symbols**
+- 💎 **Spinning reels with diamond, coal, gold, silver, dollar signs, and money bag symbols**
 - 💰 **Win detection and payouts**
 - 🔄 **AutoPlay mode** with adjustable speed
 - 🏆 **High score tracking & leaderboard**
@@ -71,7 +71,7 @@ Then, enable **GitHub Pages** in your repo settings!
 ## 🏆 How to Play
 1. **Select your bet amount.**
 2. **Press "Spin" to play.**
-3. **Match geometric shapes to win!**
+3. **Match diamonds, coal, gold, silver, dollar signs, and money bags to win!**
 4. **Use "AutoPlay" for automatic spins.**
 5. **Reload credits when needed.**
 
@@ -93,5 +93,5 @@ Then, submit a pull request!
 
 ---
 
-🎰 **Enjoy playing Jackpot Shapes!** 🔶🔵🔺
+🎰 **Enjoy playing Jackpot Shapes!** 💎💰💲
 

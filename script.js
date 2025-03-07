@@ -45,7 +45,7 @@ function checkWinCondition() {
     } else if (uniqueSymbols.size <= 3) {
         winMessage.textContent = "You Win! 🎰";
     } else {
-        winMessage.textContent = "Try Again!";
+        winMessage.textContent = "you suck! hahaha!";
     }
 }
 
